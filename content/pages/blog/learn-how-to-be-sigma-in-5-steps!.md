@@ -21,3 +21,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+**Be a Sigma!**
+
+In this guide, I'll teach you my steps of how I learned how to be a real sigma!
